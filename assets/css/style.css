@@ -1,0 +1,23 @@
+/* css */
+
+.TableName,
+td,
+th,
+tr {
+    border: solid 0.5px #ca4343;
+
+    border-collapse: collapse;
+    width: auto;
+    font-size: 30px;
+}
+
+.TableName {
+    background-color: rgb(204, 219, 249);
+}
+.odd {
+    background-color: rgb(140, 180, 229);
+}
+
+.even {
+    background-color: rgb(204, 219, 249);
+}
